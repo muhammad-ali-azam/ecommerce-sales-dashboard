@@ -5,18 +5,26 @@
 ![E-commerce Dashboard](1.png)
 
 ### 📊 Overview
-Analyzed e-commerce sales data to identify revenue trends, best-selling products, and profit margins. This dashboard helps business owners make data-driven decisions.
+This is a complete 4-page e-commerce sales dashboard. Analyzed sales data to identify revenue trends, best-selling products, and profit margins.
+
+**Pages Included:**
+- Sales Overview
+- Product Analysis  
+- Customer Insights
+- Payment Methods
+
+### 📁 Files in this Repository
+- `1.png` - Dashboard Preview
+- `1. E-Commerce Sales Dashboard.pbix` - Complete Power BI file (4 Pages)
 
 ### 🛠️ Tools Used
 - Power BI Desktop
 - DAX & Power Query
-- Data Modeling
 
 ### 💡 Key Insights
-- Total Revenue & Profit Analysis
-- Monthly Sales Trend
-- Top 10 Products by Sales
-- Profit Margin by Category
+- 99K Total Orders, 13.59M Total Sales
+- Top Product Category Analysis
+- Payment Type Distribution
 
 ---
 *Developed by Muhammad Ali Azam | Data Analyst from Multan*
